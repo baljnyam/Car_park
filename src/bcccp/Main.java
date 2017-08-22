@@ -72,7 +72,6 @@ public class Main {
 					xis.setVisible(true);
 					xgate.setVisible(true);
 					xos.setVisible(true);
-					xos.setVisible(true);
 					
 				} 
 				catch (Exception e) {
