@@ -30,6 +30,7 @@ public class EntryController
 			ICarSensor is,
 			IEntryUI ui) {
 		//TODO Implement constructor
+		entey car
 	}
 
 
